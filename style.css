@@ -22,7 +22,7 @@
 
 }
 .content{
-    top: 25%;
+    top: 30%;
     position: absolute;
     transform: translateY(-50%);
     color: #fff;
@@ -34,18 +34,13 @@
 .content h1 span{
 color: #ff3753;
 }
-.content h4{
-    font-weight: 600;
-    font-size: 60px;
-}
-.content h4 span{
-color: #ff3753;
-}
+
 .content button{
     background: transparent;
     color: #fff;
     padding: 10px 25px;
     outline: none;
+    height:20px
     border: 2px solid #fff;
     border-radius: 10px;
     text-align: center;
@@ -54,7 +49,7 @@ color: #ff3753;
     cursor: pointer;
 }
 .content button img{
-    width: 15px;
+    width: 10px;
     margin-left: 20px;
 }
 .launch-time{
